@@ -1,7 +1,7 @@
 {
-  "name": "gulp-connect",
+  "name": "@achingbrain/gulp-connect",
   "version": "5.6.1",
-  "description": "Gulp plugin to run a webserver (with LiveReload)",
+  "description": "Gulp plugin to run a webserver (with LiveReload) and https://github.com/AveVlad/gulp-connect/pull/261 applied",
   "license": "MIT",
   "repository": {
     "type": "git",
